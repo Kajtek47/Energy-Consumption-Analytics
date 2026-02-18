@@ -44,6 +44,21 @@ Dashboard zaprojektowany w stylu **Modern Dark UI**, typowym dla centrów sterow
 * Wysoki kontrast dla kluczowych wskaźników (KPI).
 * **Heatmapa Obciążenia:** Wizualizacja godzin szczytu (Peak Hours) pozwalająca błyskawicznie zidentyfikować anomalie.
 
+## 💡 Wnioski Biznesowe (Business Insights)
+Analiza danych pozwoliła zidentyfikować kluczowe obszary do optymalizacji:
+
+1.  **Zarządzanie Popytem (Demand Response):**
+    * Heatmapa wskazuje krytyczne obciążenie sieci w godz. **17:00-21:00** (tzw. wieczorny szczyt energetyczny).
+    * *Rekomendacja:* Promocja taryf strefowych (G12/G12w) w celu spłaszczenia krzywej popytu ("Peak Shaving") i przesunięcia konsumpcji na godziny nocne.
+
+2.  **Sezonowość Przychdów:**
+    * Analiza trendu rocznego wykazuje **30% spadek obciążenia** w miesiącach letnich (czerwiec-sierpień).
+    * *Rekomendacja:* Wykorzystanie tego okna czasowego na planowane prace modernizacyjne infrastruktury OSD (Maintenance Windows).
+
+3.  **Segmentacja Klientów:**
+    * Zidentyfikowano grupę klientów na taryfie stałej (G11) o wysokim zużyciu nocnym.
+    * *Rekomendacja:* Kampania upsellingowa taryf dynamicznych – zwiększenie satysfakcji klienta poprzez obniżenie ich rachunków przy zachowaniu stabilności sieci.
+
 ## 📂 Struktura Plików
 * `Energy_Analytics.pbix` - Główny plik projektu Power BI.
 * `data_generator.py` - Skrypt Python generujący dane CSV.
