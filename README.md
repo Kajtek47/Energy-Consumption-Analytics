@@ -48,11 +48,11 @@ Dashboard zaprojektowany w stylu **Modern Dark UI**, typowym dla centrów sterow
 Analiza danych pozwoliła zidentyfikować kluczowe obszary do optymalizacji:
 
 1.  **Zarządzanie Popytem (Demand Response):**
-    * Heatmapa wskazuje krytyczne obciążenie sieci w godz. **17:00-21:00** (tzw. wieczorny szczyt energetyczny).
+    * Heatmapa wskazuje krytyczne obciążenie sieci w godz. **17:00-22:00** (tzw. wieczorny szczyt energetyczny).
     * *Rekomendacja:* Promocja taryf strefowych (G12/G12w) w celu spłaszczenia krzywej popytu ("Peak Shaving") i przesunięcia konsumpcji na godziny nocne.
 
 2.  **Sezonowość Przychdów:**
-    * Analiza trendu rocznego wykazuje **30% spadek obciążenia** w miesiącach letnich (czerwiec-sierpień).
+    * Analiza trendu rocznego wykazuje **30% spadek obciążenia** w miesiącach wiosennych i letnich (kwiecień-wrzesień).
     * *Rekomendacja:* Wykorzystanie tego okna czasowego na planowane prace modernizacyjne infrastruktury OSD (Maintenance Windows).
 
 3.  **Segmentacja Klientów:**
