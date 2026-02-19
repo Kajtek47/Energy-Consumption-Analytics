@@ -1,4 +1,4 @@
-# ⚡ Analiza Zużycia Energii i Rentowności Taryf (Energa Case Study)
+# ⚡ Analiza Zużycia Energii i Rentowności Taryf
 
 > **Business Intelligence Dashboard** symulujący analizę danych dla Operatora Systemu Dystrybucyjnego (OSD). Projekt skupia się na identyfikacji wzorców zużycia (Peak Load) oraz optymalizacji przychodów w zależności od taryf energetycznych (G11 vs G12).
 
@@ -44,16 +44,16 @@ Dashboard zaprojektowany w stylu **Modern Dark UI**, typowym dla centrów sterow
 * Wysoki kontrast dla kluczowych wskaźników (KPI).
 * **Heatmapa Obciążenia:** Wizualizacja godzin szczytu (Peak Hours) pozwalająca błyskawicznie zidentyfikować anomalie.
 
-## 💡 Wnioski Biznesowe (Business Insights)
+## 💡 Wnioski Biznesowe
 Analiza danych pozwoliła zidentyfikować kluczowe obszary do optymalizacji:
 
 1.  **Zarządzanie Popytem (Demand Response):**
     * Heatmapa wskazuje krytyczne obciążenie sieci w godz. **17:00-22:00** (tzw. wieczorny szczyt energetyczny).
-    * *Rekomendacja:* Promocja taryf strefowych (G12/G12w) w celu spłaszczenia krzywej popytu ("Peak Shaving") i przesunięcia konsumpcji na godziny nocne.
+    * *Rekomendacja:* Promocja taryf strefowych (G12/G12w) w celu spłaszczenia krzywej popytu i przesunięcia konsumpcji na godziny nocne.
 
 2.  **Sezonowość Przychdów:**
     * Analiza trendu rocznego wykazuje **30% spadek obciążenia** w miesiącach wiosennych i letnich (kwiecień-wrzesień).
-    * *Rekomendacja:* Wykorzystanie tego okna czasowego na planowane prace modernizacyjne infrastruktury OSD (Maintenance Windows).
+    * *Rekomendacja:* Wykorzystanie tego okna czasowego na planowane prace modernizacyjne infrastruktury OSD.
 
 3.  **Segmentacja Klientów:**
     * Zidentyfikowano grupę klientów na taryfie stałej (G11) o wysokim zużyciu nocnym.
