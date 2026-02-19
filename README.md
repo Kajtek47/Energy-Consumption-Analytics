@@ -59,7 +59,9 @@ Analiza danych pozwoliła zidentyfikować kluczowe obszary do optymalizacji:
     * Zidentyfikowano grupę klientów na taryfie stałej (G11) o wysokim zużyciu nocnym.
     * *Rekomendacja:* Kampania upsellingowa taryf dynamicznych – zwiększenie satysfakcji klienta poprzez obniżenie ich rachunków przy zachowaniu stabilności sieci.
 
-## 📂 Struktura Plików
-* `Energy_Analytics.pbix` - Główny plik projektu Power BI.
-* `data_generator.py` - Skrypt Python generujący dane CSV.
-* `/data` - Folder z wygenerowanymi plikami (Dim/Fact).
+## 📂 Struktura Repozytorium
+* `/Data` - Wygenerowane pliki CSV (Surowe dane).
+* `/Scripts` - Kod źródłowy Python do generowania danych.
+* `/Reports` - Pliki wynikowe:
+    * `Energa_Dashboard.pbix` (Projekt Power BI)
+    * `Energa_Raport.pdf` (Podgląd PDF)
